@@ -1,0 +1,132 @@
+{
+  "books": [
+    {
+      "id": "U6sviHrUHrM43ZzHn3AgBb",
+      "category": "aviation-studies",
+      "path": "./library/aviation-studies/amt_powerplant_handbook.pdf",
+      "short_name": "No title",
+      "full_name": "No title",
+      "author": "No Author"
+    },
+    {
+      "id": "KfDsuE5ipAtgs9XvDmr5TR",
+      "category": "business",
+      "path": "./library/business/BusinessEthics-OP.pdf",
+      "short_name": "Busin",
+      "full_name": "Business Ethics",
+      "author": null
+    },
+    {
+      "id": "3MKgu2rWxjipnoEh7Bqo9e",
+      "category": "business",
+      "path": "./library/business/Entrepreneurship-WEB_qNSArxT.pdf",
+      "short_name": "Entre",
+      "full_name": "Entrepreneurship",
+      "author": null
+    },
+    {
+      "id": "5JBTJZsWeTGPKpMH7mK9sN",
+      "category": "computer-science",
+      "path": "./library/computer-science/Prealgebra_ViaPython_ISBN_978-980-18-0123-8.pdf",
+      "short_name": "No title",
+      "full_name": "No title",
+      "author": "No Author"
+    },
+    {
+      "id": "mcBJVhQNFEfxGbQeTMaoZH",
+      "category": "computer-science",
+      "path": "./library/computer-science/producingoss.pdf",
+      "short_name": "No title",
+      "full_name": "No title",
+      "author": "No Author"
+    },
+    {
+      "id": "EnoNGaT7NkzJyTLgT72Hts",
+      "category": "engineering",
+      "path": "./library/engineering/Crawford-Automation-A-Guided-Application-of-Structured-Problem-Solving-1683831084._print.pdf",
+      "short_name": "Crawf",
+      "full_name": "Crawford Automation - A Guided Application of Structured Problem Solving",
+      "author": null
+    },
+    {
+      "id": "c3GU2xckUqSGGPXJqJYoXy",
+      "category": "engineering",
+      "path": "./library/engineering/Introduction-to-Mechanical-Engineering-Design-1673014269.pdf",
+      "short_name": "Intro",
+      "full_name": "Introduction to Mechanical Engineering Design",
+      "author": null
+    },
+    {
+      "id": "PhohLdYKCecqDVEVzNfjU2",
+      "category": "health-sciences",
+      "path": "./library/health-sciences/Health Science 100 V3.pdf",
+      "short_name": "Healt",
+      "full_name": "Health Science 100 V3.pdf",
+      "author": "Trudi Radtke "
+    },
+    {
+      "id": "oC3YLfXKheNemParQu22yf",
+      "category": "humanities",
+      "path": "./library/humanities/Introduction_to_Philosophy-WEB_cszrKYp.pdf",
+      "short_name": "Intro",
+      "full_name": "Introduction to Philosophy",
+      "author": null
+    },
+    {
+      "id": "XgB32unaAGzVp5SqNytA4z",
+      "category": "humanities",
+      "path": "./library/humanities/USHistory-WEB.pdf",
+      "short_name": "U.S. ",
+      "full_name": "U.S. History",
+      "author": null
+    },
+    {
+      "id": "GAmUC8PvF2GDKHZeayU2oj",
+      "category": "mathematics",
+      "path": "./library/mathematics/CalculusVolume2-OP.pdf",
+      "short_name": "Calcu",
+      "full_name": "Calculus Volume 2",
+      "author": null
+    },
+    {
+      "id": "MLYtJekRLfCG5KMJCCMJmA",
+      "category": "mathematics",
+      "path": "./library/mathematics/CalculusVolume3-OP_mktoy8b.pdf",
+      "short_name": "Calcu",
+      "full_name": "Calculus Volume 3",
+      "author": null
+    },
+    {
+      "id": "Uj2N5GpPKwWm6u9uUWuHUA",
+      "category": "mathematics",
+      "path": "./library/mathematics/Calculus_Volume_1_-_WEB_68M1Z5W.pdf",
+      "short_name": "Calcu",
+      "full_name": "Calculus Volume 1",
+      "author": null
+    },
+    {
+      "id": "o8dqFvA9P2gbAuHWtisvra",
+      "category": "physical-sciences",
+      "path": "./library/physical-sciences/Biology2e-WEB_ICOFkGu.pdf",
+      "short_name": "Biolo",
+      "full_name": "Biology 2e",
+      "author": null
+    },
+    {
+      "id": "BF2kMexaRToNmWbyWAvPDx",
+      "category": "social-sciences",
+      "path": "./library/social-sciences/Introduction_to_Political_Science_-_WEB.pdf",
+      "short_name": "Intro",
+      "full_name": "Introduction to Political Science",
+      "author": null
+    },
+    {
+      "id": "gUaNjGKTcRKYL9cwNHHXwS",
+      "category": "theology",
+      "path": "./library/theology/a-philosophical-conversation.pdf",
+      "short_name": "No title",
+      "full_name": "No title",
+      "author": "No Author"
+    }
+  ]
+}
